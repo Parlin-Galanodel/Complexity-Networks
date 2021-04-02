@@ -1,0 +1,9 @@
+# This project uses python 3.8.5
+# The latest versions of the modules below should also work
+networkx=2.5
+matplotlib=3.3.2
+numpy=1.19.2
+scipy=1.5.2
+
+# or install anaconda instead
+anaconda=2020.11=py38_0
